@@ -111,8 +111,3 @@ Once the host admits the bot, it will automatically mute audio/video, capture th
 Distributed under the MIT License. See LICENSE for more information.
 
 ---
-
-### 💡 Submitting Karde Time Ye Dhyaan Rakhna:
-1. Terminal me `cd client && npm run build` chala kar dekhna ki frontend me koi build error toh nahi hai.
-2. Repo par `README.md` push kar do.
-3. Submitting email/message me **GitHub Repo Link** aur **1-minute Demo Video/GIF** attach karna mat bhoolna—isse selections jaldi hote hain!
